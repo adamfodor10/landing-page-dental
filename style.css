@@ -1,9 +1,59 @@
 * {
-    font-size: 24px; /* for debugging, comment it out when project is completed*/
-    font-weight: normal; /* for debugging, comment it out when project is completed*/
-    color:darkviolet; /* for debugging, comment it out when project is completed*/
+    font-size: 24px;
+    font-weight: normal;
+    color:darkviolet; /* for debugging, comment it out when the project is completed*/
     padding: 0;
     border: 0;
     margin: 0;
     box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-container {
+    background-color: #1F2937;
+
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    flex-basis: 1200px;
+    padding: 12px 24px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-list-container {
+    list-style-type: none;
+    margin-left: 24px;
+
+    display: flex;
+    gap: 24px;
+}
+
+.header-list {
+    display: flex;
+    align-items: center;
+}
+
+.header-link {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    padding: 12px;
+}
+
+.appointment {
+    background-color: #3882FA;
+    border-radius: 12px;
+}
+
+.appointment-link {
+    text-align: center;
 }
