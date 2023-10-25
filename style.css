@@ -71,17 +71,18 @@ body {
     justify-content: space-between;
 }
 
-.hero-primary {
+.hero-slogan {
     font-size: 48px;
     font-weight: bold;
     color: white;
-    max-width: 350px;
+    width: 280px;
 }
 
-.hero-secondary {
+.hero-info {
     font-size: 20px;
     color: white;
     max-width: 350px;
+    min-width: 250px;
     margin-top: 24px;
 }
 
