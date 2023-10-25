@@ -23,11 +23,15 @@ body {
 
 .header {
     flex-basis: 1200px;
-    padding: 12px 24px;
+    padding: 16px 24px;
 
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.header-logo {
+    height: 70px;
 }
 
 .header-list-container {
@@ -87,7 +91,9 @@ body {
     margin-top: 50px;
 }
 
-.hero-image {
+.hero-photo {
+    width: 500px;
+    height: 400px;
     margin-left: 36px;
 }
 
