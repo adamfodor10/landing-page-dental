@@ -50,12 +50,12 @@ body {
     padding: 12px;
 }
 
-.appointment {
+.header-appointment {
     background-color: #3882FA;
     border-radius: 12px;
 }
 
-.appointment-link {
+.header-appointment-link {
     font-weight: bold;
     text-align: center;
 }
