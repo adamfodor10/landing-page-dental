@@ -56,6 +56,7 @@ body {
 }
 
 .appointment-link {
+    font-weight: bold;
     text-align: center;
 }
 
@@ -92,6 +93,7 @@ body {
 
 .hero-learn-more {
     text-decoration: none;
+    font-weight: bold;
     color:white;
     padding: 12px;
     background-color: #3882FA;
@@ -136,5 +138,35 @@ body {
     text-align: center;
     color: #1F2937;
     max-width: 200px;
-    margin-top:10px;
+    margin:10px 0px 120px 0px;
+}
+
+.testimonial-container {
+    background-color: #E5E7EB;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.testimonial {
+    max-width: 900px;
+    padding: 100px 20px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.testimonial-text {
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    min-width: 430px;
+}
+
+.testimonial-name {
+    font-weight: bold;
+    color: #1F2937;
+    margin-top: 12px;
 }
