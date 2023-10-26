@@ -1,4 +1,4 @@
-# landing-page-dental-01
+# landing-page-dental
 Landing Page for Dental Business.
 
-In this project I will create a dummy landing page for Radiant Smile Dental Ltd. (dummy company).
+In this project I will create a dummy landing page for Radiant Smile Dental Clinic (dummy company).
