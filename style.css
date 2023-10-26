@@ -184,11 +184,10 @@ body {
 
 .appointment {
     background-color: #3882FA;
-    max-width: 1200px;
+    flex-basis: 1200px;
     padding: 40px 40px;
     border-radius: 12px;
     margin: 100px 24px;
-    flex-grow: 1;
 
     display: flex;
     justify-content: space-between;
