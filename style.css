@@ -1,7 +1,53 @@
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    src: url('./roboto-font/roboto-normal.woff2') format('woff2'),
+         url('./roboto-font/roboto-normal.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: italic;
+    src: url('./roboto-font/roboto-normal-italic.woff2') format('woff2'),
+         url('./roboto-font/roboto-normal-italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 700;
+    src: url('./roboto-font/roboto-bold.woff2') format('woff2'),
+         url('./roboto-font/roboto-bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-style: italic;
+    src: url('./roboto-font/roboto-bold-italic.woff2') format('woff2'),
+         url('./roboto-font/roboto-bold-italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 300;
+    src: url('./roboto-font/roboto-light.woff2') format('woff2'),
+         url('./roboto-font/roboto-light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-style: italic;
+    src: url('./roboto-font/roboto-light-italic.woff2') format('woff2'),
+         url('./roboto-font/roboto-light-italic.woff') format('woff');
+}
+
 * {
     font-size: 24px;
     font-weight: normal;
-    color:darkviolet; /* for debugging, comment it out when the project is completed*/
+    font-family: 'Roboto', Arial, sans-serif;
+    /* color:darkviolet; for debugging, comment it out when the project is completed */
     padding: 0;
     border: 0;
     margin: 0;
@@ -34,7 +80,7 @@ body {
 .header-logo {
     flex-basis: 250px;
     height: 50px;
-    margin: 10px 0px;
+    margin: 12px 0px;
 }
 
 .header-list-container {
@@ -51,7 +97,7 @@ body {
 }
 
 .header-link {
-    font-size: 20px;
+    font-size: 18px;
     text-decoration: none;
     color: white;
     padding: 12px;
@@ -87,12 +133,13 @@ body {
 }
 
 .hero-info {
-    font-size: 20px;
+    font-size: 18px;
     color: white;
     margin-top: 50px;
 }
 
 .hero-learn-more {
+    font-size: 18px;
     font-weight: bold;
     text-decoration: none;
     color:white;
@@ -199,16 +246,16 @@ body {
     font-size: 28px;
     font-weight: bold;
     color: white;
-    min-width: 220px;
+    min-width: 230px;
 }
 .appointment-text {
-    font-size: 20px;
+    font-size: 18px;
     color: white;
     margin-top: 4px;
 }
 
 .appointment-link {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
