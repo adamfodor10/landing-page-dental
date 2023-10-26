@@ -14,7 +14,8 @@ body {
 }
 
 .header-container,
-.hero-container {
+.hero-container,
+.footer-container {
     background-color: #1F2937;
 
     display: flex;
@@ -218,17 +219,11 @@ body {
     margin: 24px;
 }
 
-.footer-container {
-    background-color: #1F2937;
+.footer {
+    flex-basis: 1200px;
 
     display: flex;
     justify-content: center;
-}
-
-.footer {
-    max-width: 1200px;
-
-    display: flex;
     gap: 8px;
 }
 
