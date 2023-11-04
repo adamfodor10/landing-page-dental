@@ -1,11 +1,7 @@
 # landing-page-dental
-Landing Page for Dental Business.
+In this project I created a dummy landing page for Radiant Smile Dental Clinic (dummy Dental Business).
 
-In this project I will create a dummy landing page for Radiant Smile Dental Clinic (dummy company).
-
-
-
-Credits for the photos in this project goes to:
+Credits for the photos goes to:
 
 [Nadezhda Moryak] (https://www.pexels.com/photo/teeth-moulds-and-veneers-scattered-on-blue-background-7800553/)
 
