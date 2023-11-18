@@ -1,7 +1,7 @@
 # Landing Page for Dental Business
 In this project I created a dummy landing page for Radiant Smile Dental Clinic (dummy Dental Business).
 The graphic design was provided by [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page) (see images folder).
-I used Flexbox layout extensively to create the CSS design of the website.
+I used Flexbox layout extensively to create the CSS design of the web page.
 
 ## Credits for the photos goes to:
 - [Nadezhda Moryak](https://www.pexels.com/photo/teeth-moulds-and-veneers-scattered-on-blue-background-7800553/)
@@ -10,7 +10,7 @@ I used Flexbox layout extensively to create the CSS design of the website.
 - [annabeauty](https://pixabay.com/illustrations/ai-generated-dental-clinic-clinic-8230961/)
 - [Los Muertos Crew](https://www.pexels.com/photo/a-smiling-woman-wearing-scrubs-8460374/)
 
-## Screenshots of the website:
+## Screenshots of the web page:
 ![Screenshot of header and hero divisions](./images/screenshot-one.png)
 ![Screenshot of info and testimonial divisions](./images/screenshot-two.png)
 ![Screenshot of testimonial, appointment and footer divisions](./images/screenshot-three.png)
