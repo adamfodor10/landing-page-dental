@@ -11,6 +11,6 @@ I used Flexbox layout extensively to create the CSS design of the website.
 - [Los Muertos Crew](https://www.pexels.com/photo/a-smiling-woman-wearing-scrubs-8460374/)
 
 ## Screenshots of the website:
-/images/screenshot-one.png
-/images/screenshot-two.png
-/images/screenshot-three.png
+![Screenshot of header and hero divisions](./images/screenshot-one.png)
+![Screenshot of info and testimonial divisions](./images/screenshot-two.png)
+![Screenshot of testimonial, appointment and footer divisions](./images/screenshot-three.png)
