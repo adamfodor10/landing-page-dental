@@ -2,6 +2,7 @@
 In this project I created a dummy landing page for Radiant Smile Dental Clinic (dummy Dental Business).
 The graphic design was provided by [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page) (see images folder of this repository).
 I used Flexbox layout extensively to create the CSS design of the web page.
+
 Check out the project at: https://adamfodor10.github.io/landing-page-dental/
 
 ## Credits for the photos goes to:
